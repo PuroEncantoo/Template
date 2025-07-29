@@ -537,7 +537,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .main-nav {
-  background: #fff;
+  background: #EDE7E2;
 }
 @media (max-width: 767px) {
   .main-nav {
@@ -714,7 +714,7 @@ select.form-control:not([size]):not([multiple]) {
   color: #ff6600;
 }
 .main-nav .ticket {
-  background: #ff6600;
+  background: #CFA36F;
   display: block;
   padding: 34px 32px;
 }
